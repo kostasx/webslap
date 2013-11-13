@@ -1,5 +1,7 @@
 Virtual slaps using your webcam!
 
+Click here for an online [demo](http://creativecollective.gr/labs/webslap/).
+
 Just move your hand fast from right to left, to slap.
 
 Tested on Chrome and Firefox.
