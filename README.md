@@ -1,3 +1,6 @@
+WebSlap
+=======
+
 Virtual slaps using your webcam!
 
 Click here for an online [demo](http://creativecollective.gr/labs/webslap/).
