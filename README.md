@@ -3,7 +3,7 @@ WebSlap
 
 Virtual slaps using your webcam!
 
-Click here for an online [demo](http://creativecollective.gr/labs/webslap/).
+Click here for an online [demo](http://learn-javascript.net/playground/webslap/).
 
 Just move your hand fast in front of your webcam from right to left, 
 to slap and add points to your Slap score!
